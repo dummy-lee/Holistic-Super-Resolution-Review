@@ -4,7 +4,7 @@ Review of deep-learning based super-resolution method in different fields.
 :blush: The wealth of the literature on SR is so rich that we could not give an exhaustic review. We just list the major methods along the timeline.  
 
 ## :heavy_exclamation_mark: Single Image Super-Resolution (SISR)  
-We categorize the SISR into three types, [**Convolutional Neural Network-based**](./Single-Image-Super-Resolution/Convolutional-Neural-Network-based.md), [**Generative Adversarial Network-based**](./Single-Image-Super-resolution/Generative-Adversarial-Network-based.md) and [**Transformer-based**](./Single-Image-Super-resolution/Transformer-based.md), for their purpose.  
+We categorize the SISR into three types, [**Convolutional Neural Network-based**](./Single-Image-Super-Resolution/Convolutional-Neural-Network-based.md), [**Generative Adversarial Network-based**](./Single-Image-Super-Resolution/Generative-Adversarial-Network-based.md) and [**Transformer-based**](./Single-Image-Super-Resolution/Transformer-based.md), for their purpose.  
 
 :boom: **Datasets**  
 :one: [Set5](https://drive.google.com/drive/folders/1B3DJGQKB6eNdwuQIhdskA64qUuVKLZ9u)   
