@@ -63,7 +63,7 @@ We categorize the SISR into three types, [**Convolutional Neural Network-based**
 Model | Params (M) | Vid4 | Video-90K | REDS | Training Set/s |
 :-:|:-:|:-:|:-:|:-:|:-:
 Bicubic | - | 23.78/0.6347 | 31.32/0.8684 | 23.72/0.7559 | - 
-VESPCN | - | 25.35/0.7557 | -/- | 24.93/0.8107 | CDVL \cite{pinson2013consumer} 
+VESPCN | - | 25.35/0.7557 | -/- | 24.93/0.8107 | CDVL
 FRVSR | 5.1 | 26.69/0.8220 | -/- | 25.27/0.8256 | Vimeo-90K 
 SPMC | - | 25.88/0.7752 | -/- | -/- | SPMCS 
 DUF | 5.8 | 27.33/0.8319 | 36.37/0.9387 | 28.63/0.8251 | DUF 
@@ -106,7 +106,7 @@ CVCNet  | 0.99  | 25.55/0.7801  | 26.35/0.7935  | 28.65/0.8231  | Flickr1024
 We categorize the LFSR into three types, [**Convolutional Neural Network-based**](./Light-Field-Super-Resolution/Convolutional-Neural-Network-based.md), [**Generative Adversarial Network-based**](./Light-Field-Super-Resolution/Generative-Adversarial-Network-based.md) and [**Transformer-based**](./Light-Field-Super-Resolution/Transformer-based.md), for their purpose.  
 
 :boom: **Datasets**  
-:one: [EPFL]([https://vision.middlebury.edu/stereo/data/](https://infoscience.epfl.ch/record/218363))   
+:one: [EPFL](https://infoscience.epfl.ch/record/218363)  
 :two: [HCInew](https://lightfield-analysis.uni-konstanz.de/)     
 :three: [HCIold](https://lightfield-analysis.uni-konstanz.de/)     
 :four: [INRIA](https://pan.baidu.com/s/19iGLK57mXqC4_g8idEQovg) | Code：pkyv   
